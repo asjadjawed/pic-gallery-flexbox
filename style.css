@@ -1,5 +1,9 @@
 body {
-  background-image: linear-gradient(to right, rgba(70,130,180,1), rgba(70,130,180,0.7)); 
+  background-image: linear-gradient(
+    to right,
+    rgba(70, 130, 180, 1),
+    rgba(70, 130, 180, 0.7)
+  );
 }
 
 img {
@@ -17,16 +21,14 @@ img:hover {
 }
 
 h1 {
-  font-family: 'ZCOOL KuaiLe', cursive;
+  font-family: "ZCOOL KuaiLe", cursive;
   width: 200px;
   margin: auto;
   padding: 0 0 50px;
   color: white;
   font-size: 5em;
-  text-shadow: -10px 10px 0px #ff8100,
-              -20px 20px 0px #ff9c36,
-              -30px 30px 0px #ff8100,
-              -35px 30px 50px black;
+  text-shadow: -10px 10px 0px #ff8100, -20px 20px 0px #ff9c36,
+    -30px 30px 0px #ff8100, -35px 30px 50px black;
   transition: transform 600ms;
 }
 
@@ -35,7 +37,7 @@ h1:hover {
 }
 
 .container {
-  display:flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
