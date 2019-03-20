@@ -1,6 +1,6 @@
 # Picture Gallery
 
-Live: [https://asjadjawed.github.io/pic-gallery-flexbox/](https://asjadjawed.github.io/pic-gallery-flexbox/)
+Live: [https://asjad.dev/pic-gallery-flexbox/](https://asjad.dev/pic-gallery-flexbox/)
 
 A responsive picture gallery with random images from unsplash built using:
 
